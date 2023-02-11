@@ -1,0 +1,17 @@
+{
+"BASEINFO":
+{
+"FROM":
+[
+"TBTCO",
+"UJD_LK_TASK_LOG",
+"UJD_PACKAGES2",
+"UJD_PACKAGEST2",
+"UJD_STATUS"
+],
+"ASSOCIATED":
+[],
+"BASE":
+[]
+}
+}

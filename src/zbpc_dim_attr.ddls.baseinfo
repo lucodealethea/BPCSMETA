@@ -1,0 +1,15 @@
+{
+"BASEINFO":
+{
+"FROM":
+[
+"DD03L",
+"UJM_IOBJ_SLT",
+"ZVBPC_ATTRIBUTES"
+],
+"ASSOCIATED":
+[],
+"BASE":
+[]
+}
+}

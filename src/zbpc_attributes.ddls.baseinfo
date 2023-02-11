@@ -1,0 +1,15 @@
+{
+"BASEINFO":
+{
+"FROM":
+[
+"TRESE",
+"UJA_DIMENSION",
+"UJA_DIM_ATTR"
+],
+"ASSOCIATED":
+[],
+"BASE":
+[]
+}
+}

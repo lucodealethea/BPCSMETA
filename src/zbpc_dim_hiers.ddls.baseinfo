@@ -1,0 +1,16 @@
+{
+"BASEINFO":
+{
+"FROM":
+[
+"RSHIEDIR",
+"UJA_DIMENSION",
+"UJA_DIM_HIER2",
+"UJA_DIM_HIE_MAP2"
+],
+"ASSOCIATED":
+[],
+"BASE":
+[]
+}
+}
