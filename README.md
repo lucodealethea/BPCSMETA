@@ -4,8 +4,10 @@ ZBPC_DIM_APP abap program and SE16 ZVBPC_DIM_ATTR describes BPC Models with Busi
 They are used to generate ABAP CDS Table Function/Views with Business Semantic on top of BPC Standard Models. 
 BPC 11 (BW/4Hana) Standard Models are now aDSO views.
 
-ADT Templates for DDLS Data Definition and ABAP Class Templates allow flexible and quick Table Function creation
-(still to add).
+ADT Templates for DDLS Data Definition and ABAP Class Templates allow flexible and quick Views / Table Function creation
+
+ADT>Window>Preferences>Abap Developement>ABAP Templates : class method
+ADT>Window>Preferences>Abap Developement>Data Definition Templates
 
 Those Views/TF are then used in specific UJ_CUSTOM_LOGIC with SQL (minified): for example Flexible Overhead Cost Allocations are made with COS calculation basis, but in some other scenario with Square Meter or Any Other Driver Table/aDSO that relates to Cost Objects.
 
