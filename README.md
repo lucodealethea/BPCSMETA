@@ -6,7 +6,9 @@ BPC 11 (BW/4Hana) Standard Models are now aDSO views.
 
 2. ADT Templates for DDLS Data Definition and ABAP Class Templates allow flexible and quick Views / Table Function creation
 
-2.1. ADT>Window>Preferences>Abap Developement>ABAP Templates : class ABAP_BPC_CLASS method
+2.1. ADT>Window>Preferences>Abap Developement>ABAP Templates : 
+class: https://github.com/lucodealethea/BPCSMETA/blob/main/ADT_TEMPLATES/ABAP_BPC_CLASS.xml 
+method:
 2.2. ADT>Window>Preferences>Abap Developement>Data Definition Templates
 
 Those Views/TF are then used in specific UJ_CUSTOM_LOGIC with SQL (minified): for example Flexible Overhead Cost Allocations are made with COS calculation basis, but in some other scenario with Square Meter or Any Other Driver Table/aDSO that relates to Cost Objects.
